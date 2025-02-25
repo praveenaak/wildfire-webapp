@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wildfire-webapp/static/css/main.9d4f2319.css",
-    "main.js": "/wildfire-webapp/static/js/main.61f86048.js",
+    "main.css": "/wildfire-webapp/static/css/main.53abe3cd.css",
+    "main.js": "/wildfire-webapp/static/js/main.dc8da074.js",
     "static/js/879.c9dd4a79.chunk.js": "/wildfire-webapp/static/js/879.c9dd4a79.chunk.js",
     "static/js/453.30bc9991.chunk.js": "/wildfire-webapp/static/js/453.30bc9991.chunk.js",
     "index.html": "/wildfire-webapp/index.html",
-    "main.9d4f2319.css.map": "/wildfire-webapp/static/css/main.9d4f2319.css.map",
-    "main.61f86048.js.map": "/wildfire-webapp/static/js/main.61f86048.js.map",
+    "main.53abe3cd.css.map": "/wildfire-webapp/static/css/main.53abe3cd.css.map",
+    "main.dc8da074.js.map": "/wildfire-webapp/static/js/main.dc8da074.js.map",
     "879.c9dd4a79.chunk.js.map": "/wildfire-webapp/static/js/879.c9dd4a79.chunk.js.map",
     "453.30bc9991.chunk.js.map": "/wildfire-webapp/static/js/453.30bc9991.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d4f2319.css",
-    "static/js/main.61f86048.js"
+    "static/css/main.53abe3cd.css",
+    "static/js/main.dc8da074.js"
   ]
 }
