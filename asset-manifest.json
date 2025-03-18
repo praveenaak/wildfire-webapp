@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wildfire-webapp/static/css/main.53abe3cd.css",
-    "main.js": "/wildfire-webapp/static/js/main.19f9af68.js",
+    "main.css": "/wildfire-webapp/static/css/main.519d8079.css",
+    "main.js": "/wildfire-webapp/static/js/main.8831d457.js",
     "static/js/879.c9dd4a79.chunk.js": "/wildfire-webapp/static/js/879.c9dd4a79.chunk.js",
     "static/js/453.30bc9991.chunk.js": "/wildfire-webapp/static/js/453.30bc9991.chunk.js",
     "index.html": "/wildfire-webapp/index.html",
-    "main.53abe3cd.css.map": "/wildfire-webapp/static/css/main.53abe3cd.css.map",
-    "main.19f9af68.js.map": "/wildfire-webapp/static/js/main.19f9af68.js.map",
+    "main.519d8079.css.map": "/wildfire-webapp/static/css/main.519d8079.css.map",
+    "main.8831d457.js.map": "/wildfire-webapp/static/js/main.8831d457.js.map",
     "879.c9dd4a79.chunk.js.map": "/wildfire-webapp/static/js/879.c9dd4a79.chunk.js.map",
     "453.30bc9991.chunk.js.map": "/wildfire-webapp/static/js/453.30bc9991.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53abe3cd.css",
-    "static/js/main.19f9af68.js"
+    "static/css/main.519d8079.css",
+    "static/js/main.8831d457.js"
   ]
 }
